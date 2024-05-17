@@ -10,6 +10,7 @@ When I'm not coding, you might find me exploring the great outdoors, watching ba
 - 💼 **LinkedIn:** [linkedin.com/in/alex-huang-uvic](https://www.linkedin.com/in/alex-huang-uvic/)
 - 💻 **GitHub:** [github.com/zthh626](https://github.com/zthh626)
 - 🌐 Website: [zthh.dev](https://zthh.dev)
+- 📝 Blog: [zthh.dev/blogs](https://zthh.dev/blogs)
 
 ## What I Enjoy
 
