@@ -9,8 +9,9 @@ When I'm not coding, you might find me exploring the great outdoors, watching ba
 - 📧 **Email:** [zthh626@gmail.com](mailto:zthh626@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/alex-huang-uvic](https://www.linkedin.com/in/alex-huang-uvic/)
 - 💻 **GitHub:** [github.com/zthh626](https://github.com/zthh626)
-- 🌐 Website: [zthh.dev](https://zthh.dev)
-- 📝 Blog: [zthh.dev/blogs](https://zthh.dev/blogs)
+- 🌐 **Website:** [zthh.dev](https://zthh.dev)
+- 📝 **Blogs:** [zthh.dev/blogs](https://zthh.dev/blogs)
+- 🛠️ **Projects:** [zthh.dev/projects](https://zthh.dev/projects)
 
 ## What I Enjoy
 
@@ -28,6 +29,7 @@ I believe in the power of community and collaboration. I enjoy sharing my experi
 
 ## Some Fun Projects
 
+- **Simple NFC Utilities:** iOS app for reading/writing to NFC tags, [read more about it here](https://zthh.dev/projects/simple-nfc-utilities)
 - **Sports Prediction Algorithm:** Predicting NBA games with a 70% accuracy rate has been a fun and challenging project.
 - **Trading Bot:** Designing a multi-layered trading bot to automate strategies across different exchanges.
 - **UVic Environmental Engineering Club:** Leading a team to create an unmanned surface vehicle for microplastics filtration.
